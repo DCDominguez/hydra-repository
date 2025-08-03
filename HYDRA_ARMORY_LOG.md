@@ -1,7 +1,8 @@
-# HYDRA ARMORY LOG
+## 6.0: ARMORY & RAID LOGS
 
+### ARMORY LOG (25 WEAPONS)
 | Weapon Name | Wielder | Description |
-| :--- | :--- | :--- |
+|---|---|---|
 | The Adamant Scroll | The Scribe | The discipline of Primary Source Analysis to discern truth from falsehood. |
 | The Scale of Motives | The Akarist | A method to diagnose if a conflict is a failure of communication or a form of it. |
 | The Concrete Aegis | The Shieldbearer | The knowledge of urban warfare to turn cities into defensive fortresses. |
